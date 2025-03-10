@@ -26,7 +26,7 @@
  
 ## :rocket:Ready to use
 
-To use the date picker, you need to call the Initializable method before the show method and send it a form from which you want to call the control and a textbox that will be updated with the date selected by the user.
+To use the date picker, you need to call the <b>Initializable</b> method before the show method and send it a form from which you want to call the control and a textbox that will be updated with the date selected by the user.
 
 This method can be modified at will. It is not necessary to send a form (here it is only about centering the calendar relative to the parent)
 
