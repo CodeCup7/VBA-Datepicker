@@ -20,66 +20,20 @@
 
 <table>
   <tr align="center">
-    <td>Menu główne</td>
-     <td>Karta oceny rozmowy</td>
-     <td>Dashboard Agenta</td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/menu.png"</td>
-    <td><img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/karta-oceny.png"></td>
-    <td><img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/dashboard.png"></td>
+    <td><img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/VBA-Datapicker/DayCalendar.png"</td>   
   </tr>
  </table>
  
-## :bulb: Główne Cechy
+## :rocket:Ready to use
 
-:diamond_shape_with_a_dot_inside: 1. Ocena jakości rozmów i korespondencji mail / social
-<br>:diamond_shape_with_a_dot_inside: 2. Przeprowadzanie comiesięcznych coachingów
-<br>:diamond_shape_with_a_dot_inside: 3. Monitrorowanie jakości (Dashboard, Statystytki)
-<br>:diamond_shape_with_a_dot_inside: 4. Ocena bierzącego odsłuchu
-<br>:diamond_shape_with_a_dot_inside: 5. Ocena tajemniczego klienta
-<br>:diamond_shape_with_a_dot_inside: 6. Agregowanie wyników testów wiedzy
-<br>:diamond_shape_with_a_dot_inside: 7. Agregowanie informacji zwrotnej "feedback" - pochwał i skarg
-<br>:diamond_shape_with_a_dot_inside: 8. Wyszukiwanie informacji po kryteriach
-<br>:diamond_shape_with_a_dot_inside: 9. Dashboard kolejek, trenerów oraz rankingi
-<br>:diamond_shape_with_a_dot_inside: 10. Automatyczne wysyłanie wiadomości e-Mail przez MS Outlook wraz z załącznikami
-<br>:diamond_shape_with_a_dot_inside: 11. Generowanie ocen i kart oraz ich export do pliku
-<br>:diamond_shape_with_a_dot_inside: 12. Generowanie raportów z błędów agentów
-<br>:diamond_shape_with_a_dot_inside: 13. Pełna administracja użytkownikami, kolejkami i danymi
+To use the date picker, you need to call the Initializable method before the show method and send it a form from which you want to call the control and a textbox that will be updated with the date selected by the user.
 
-## :computer:Technologia
-:small_blue_diamond: 1. Pełna aplikacja w Excel VBA
-<br>:small_blue_diamond: 2. Baza danych MS Access
-<br>:small_blue_diamond: 3. Bezserwerowa aplikacja wykorzystująca dysk sieciowy
-<br>:small_blue_diamond: 4. Zaimplementowany system wymuszenia aktualizacji
-<br>:small_blue_diamond: 5. Zaimplementowany system wyłączenia dostępu do bazy danych
-<br>:small_blue_diamond: 6. Autoryzacja domenowa
+This method can be modified at will. It is not necessary to send a form (here it is only about centering the calendar relative to the parent)
 
-## :rocket:Instalacja
+It is also not necessary to place the date in the textbox. It can be a CELL cell or a SHAPE shape or any other form.
+ 
 
-Wypakuj repozytorium na dysk i uruchom excela. Koniecznie włącz makra. Domyślnie ustawiony jest trener DEMO i podpięta baza danych w lokalizacji. Baza załadowana przykładowymi ocenami w zakresie czasowym 01.08.2024 - 31.12.2024
-
-## :dart:Przykładowy proces:
-### :point_right: 1. Oceń rozmowę lub wiadomość:
-Używając karty oceny lub karty mail. Wybierz agenta, daty, kolejkę tam gdzie wymagane. Następnie możesz wybrać oceny poszczególnych bloków jak wiedza czy technika obsługi. Przykładową ocenę pokazano poniżej:
-
-
-
-### :point_right: 2. Przeprowadź coaching:
-Po ocenie jednej lub wielu rozmów / mailu przejdź do menu monitoringu. Wybierz miesiąc i pobierz dane. Wybierze agenta którego rozmowy oceniono
-i jego rozmowy zaznaczając je. Wybierz rozpocznij coaching. Na karcie coacha możesz zatwierdzić coaching lub wpisać dodatkowe uwagi. Po zatwierdzeniu możesz wygenerować dashboard dla ocenionego agenta.
-
-
-
-### :point_right: 3. Sprawdź postępy:
-Na końcu możesz wygenerować Dashboard Agenta i sprawdzić jego postępy. 
-
-
-
-## :art: Layout
-Cała grafikę jak i wszystkie ikony powstały przy udziale czcionki "Segoe UI Symbol". 
-
-## ✍️Autor
+## ✍️Author
 Szymon Kawa
 
  ##  :telephone: Kontakt
