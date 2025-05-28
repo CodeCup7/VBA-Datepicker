@@ -1,5 +1,5 @@
 <div align="center">
-<img width=200px height=200px src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/logo.png" alt="Project logo">
+<img width=200px height=200px src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/VBA-Datapicker/Logo.png" alt="Project logo">
 </div>
 
 <h1 align="center">:star:VBA DatePicker</h1>
@@ -19,9 +19,12 @@
 <br>
 
 <table>
-  <tr align="center">
-    <td><img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/VBA-Datapicker/DayCalendar.png"</td>   
-  </tr>
+	<tr align="center">
+		<td><img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/VBA-Datapicker/DayCalendar.png"</td>   
+	</tr>
+	<tr align="center">
+		<td><img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/VBA-Datapicker/MonthCalendar.png"</td>   
+	</tr>
  </table>
  
 ## :rocket:Ready to use
